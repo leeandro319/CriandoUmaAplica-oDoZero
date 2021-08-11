@@ -53,3 +53,13 @@
     }
   }
 }
+
+.btn_sair {
+  width: 100%;
+  background: var(--hightlight);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2.5rem;
+}
